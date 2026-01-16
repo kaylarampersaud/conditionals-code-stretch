@@ -1,4 +1,4 @@
-let answer = 3;
+const answer = 3;
 
 answerInput = prompt(`Guess The Number`);
 
